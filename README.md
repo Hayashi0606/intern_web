@@ -1,2 +1,2 @@
 # intern_web
-制作展で作ったinternのwebサイトです。
+授業で作ったwebサイトです。
